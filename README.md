@@ -1,5 +1,7 @@
 <h1 align="center">Healthcare Database Management System</h1>
 
+![Database Design](https://github.com/user-attachments/assets/8ae472c4-b4d9-4bb7-a360-ded89dfd1d6c)
+
 <p align="center">
     <strong>A SQL-based system to manage patient records, doctor information, appointments, and billing in a healthcare environment.</strong>
 </p>
